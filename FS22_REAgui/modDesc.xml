@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+    <author>900Hasse</author>
+	<version>1.0.0.0</version>
+	<title>
+        <en>REA22 gui</en>
+    </title>
+    <description>
+        <en>
+<![CDATA[
+GUI
+]]>
+</en>
+<de>
+<![CDATA[
+GUI
+]]>
+</de>
+    </description>
+	<l10n>
+	</l10n>
+    <iconFilename>icon_REAgui.dds</iconFilename>
+	<multiplayer supported="true" />
+    <extraSourceFiles>
+        <sourceFile filename="REAgui.lua" />
+    </extraSourceFiles>
+</modDesc>
