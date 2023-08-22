@@ -166,8 +166,8 @@ function REAgui:DrawStatus(vehicle,dt)
 	-- Motor load is 0-100%
 	if MotorLoad > 100 then
 		MotorLoad = 100;
-	elseif MotorLoad < 0 then
-		MotorLoad = 0;
+	-- elseif MotorLoad < 0 then
+	-- 	MotorLoad = 0;
 	end
 
 
